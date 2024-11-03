@@ -18,7 +18,7 @@ Este proyecto es una aplicación de React que utiliza la API de Rick and Morty p
 
 ## Demo
 
-Puedes ver la demo de la aplicación en el siguiente enlace: [Rick and Morty App en Netlify](https://tu-demo-en-netlify.netlify.app)
+Puedes ver la demo de la aplicación en el siguiente enlace: [Rick and Morty App en Netlify](https://courageous-cactus-ded4a3.netlify.app/)
 
 ## Requisitos previos
 
